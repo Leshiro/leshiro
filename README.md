@@ -1,3 +1,1 @@
-hello world, i'm leshiro
-
-私は現在日本語を勉強しています！
+to become a star, you must burn
