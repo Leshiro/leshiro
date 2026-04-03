@@ -1,5 +1,9 @@
 Electronics engineering freshman
 
+### My current best projects
+- **[PyKnight](https://github.com/Leshiro/py-knight)**
+- **[Jisuke](https://github.com/Leshiro/jisuke)**
+
 ### I'm comfortable with
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
