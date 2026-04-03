@@ -20,3 +20,11 @@ to become a star, you must burn
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
   <img src="https://cdn.simpleicons.org/ros/22314E" height="50"/>
 </p>
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/numpy" height="50"/>
+  <img src="https://cdn.simpleicons.org/scipy" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50"/>
+  <img src="https://cdn.simpleicons.org/pandas" height="50"/>
+  <img src="https://cdn.simpleicons.org/tensorflow" height="50"/>
+</p>
