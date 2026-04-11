@@ -25,7 +25,6 @@ Electronics engineering freshman
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="50"/>
   <img src="https://cdn.simpleicons.org/ros/22314E" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50"/>
   <img src="https://cdn.simpleicons.org/opengl" height="50"/>
   <img src="https://cdn.simpleicons.org/numpy" height="50"/>
