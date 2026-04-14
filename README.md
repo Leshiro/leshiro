@@ -23,7 +23,6 @@ Electronics engineering freshman
 
 ### I plan to learn
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="50"/>
   <img src="https://cdn.simpleicons.org/ros/22314E" height="50"/>
   <img src="https://cdn.simpleicons.org/opengl" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50"/>
@@ -32,5 +31,6 @@ Electronics engineering freshman
   <img src="https://cdn.simpleicons.org/scipy" height="50"/>
   <img src="https://cdn.simpleicons.org/pandas" height="50"/>
   <img src="https://cdn.simpleicons.org/tensorflow" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50"/>
 </p>
