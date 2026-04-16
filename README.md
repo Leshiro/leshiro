@@ -1,9 +1,5 @@
 Electronics engineering freshman
 
-### My current best projects
-- **[PyKnight](https://github.com/Leshiro/py-knight)** - A complete & customizable chess game
-- **[Jisuke](https://github.com/Leshiro/jisuke)** - A browser extension that adds rōmaji above Japanese text
-
 ### I'm comfortable with
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
