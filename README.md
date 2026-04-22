@@ -22,6 +22,7 @@
   <img src="https://cdn.simpleicons.org/julia" height="50"/>
   <img src="https://cdn.simpleicons.org/numpy" height="50"/>
   <img src="https://cdn.simpleicons.org/scipy" height="50"/>
+  <img src="https://cdn.simpleicons.org/sympy" height="50"/>
   <img src="https://cdn.simpleicons.org/pandas" height="50"/>
   <img src="https://cdn.simpleicons.org/tensorflow" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="50"/>
