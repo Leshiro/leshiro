@@ -1,1 +1,1 @@
-こんにちは、はじめまして！
+Aspiring EE student. I also like coding lol
