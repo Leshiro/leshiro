@@ -1,1 +1,1 @@
-Aspiring EE student. I also like coding lol
+EE student. I also like coding lol
